@@ -29,35 +29,32 @@ A Power BI dashboard which allows me to filter data for each Product.
 Follow sales over time against budget.	
 A Power Bi dashboard with graphs and KPIs comparing against budget.
 
-## ✏️ Data Cleansing & Transformation (SQL)
+- ###### Step 1.
 
-To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
+Add the Dataset provided to SQL Server Studio Management.
 
-One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
+- ###### Step 2.
 
-Below are the cleansed and transformed necessary data.
+Data Cleansing & Transformation (SQL)
 
--DIM_Calendar: Cleansed DIM_Date Table
+To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories, tables were extracted using SQL queries.
 
--DIM_Customers: Cleansed DIM_Customers Table
+- ###### Step 3.
 
--DIM_Products: Cleansed DIM_Products Table
+Export the data to CSV files.
 
--FACT_InternetSales: Cleansed FACT_InternetSales Table
+- ###### Step 4.
 
--FACT_Budget: Sent Over Data
+Load the CSV files and the Budget.xlsx to PowerBI with PowerQuery to manipulate the data.
 
-# Data Model
+- ###### Step 5.
 
-Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
+Data Model
 
-This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
+Create the data model after cleansed and prepared tables were transformed with PowerQuery, connecting FACT_Tables with DIM_Tables.
 
-![Data_Model](https://user-images.githubusercontent.com/122797480/229294923-92d967c1-54aa-47ea-94d8-d5c561c9efaa.jpg)
-# Sales Management Dashboard
+- ###### Step 6.
 
-The finished sales management dashboard with one page which works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
+The Dashboards
 
-![Sales_Overview](https://user-images.githubusercontent.com/122797480/229293863-bc0a892e-cd06-4d00-ba34-98970c50c9af.jpg)
-![Product_Details](https://user-images.githubusercontent.com/122797480/229294972-740cbe8b-13f6-448d-834d-b51bf89b9c71.jpg)
-![Customer_Details](https://user-images.githubusercontent.com/122797480/229294987-f4d766af-6856-4181-936f-972dde1cb4e5.jpg)
+Create sales management dashboard with one page which works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
