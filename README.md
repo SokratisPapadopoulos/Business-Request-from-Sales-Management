@@ -15,19 +15,19 @@ The business request for this data analyst project was an executive sales report
 
 Based on the request that was made from the business company, the following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
 
-▪ Sales Manager	To get a dashboard overview of internet sales.	
+▪ Sales Manager:	To get a dashboard overview of internet sales.
 Can follow better which customers and products sells the best.	
 A Power BI dashboard which updates data once a day.
 
-▪ Sales Representative	A detailed overview of Internet Sales per Customers.	
+▪ Sales Representative:	A detailed overview of Internet Sales per Customers.	
 Can follow up my customers that buys the most and who we can sell ore to.	
 A Power BI dashboard which allows me to filter data for each customer.
 
-▪ Sales Representative	A detailed overview of Internet Sales per Products.	
+▪ Sales Representative:	A detailed overview of Internet Sales per Products.	
 Can follow up my Products that sells the most.
 A Power BI dashboard which allows me to filter data for each Product.
 
-▪ Sales Manager	A dashboard overview of internet sales.	
+▪ Sales Manager:	A dashboard overview of internet sales.	
 Follow sales over time against budget.	
 A Power Bi dashboard with graphs and KPIs comparing against budget.
 
