@@ -1,5 +1,7 @@
 # Business-Request-from-Sales-Management
 
+- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/Business-Request-from-Sales-Management)
+
 ## 📝 Project Task
 
 The business request for this data analyst project was an executive sales report for sales manager.
