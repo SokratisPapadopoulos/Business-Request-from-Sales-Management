@@ -31,8 +31,8 @@ A Power Bi dashboard with graphs and KPIs comparing against budget.
 
 ## ✏️ What we did:
 
-Data Cleansing & Transformation (SQL)
-Load to PowerBI
-Data Model
-Dashboards
+-Data Cleansing & Transformation (SQL)
+-Load to PowerBI
+-Data Model
+-Dashboards
 ![Sales_Overview](https://user-images.githubusercontent.com/122797480/229293863-bc0a892e-cd06-4d00-ba34-98970c50c9af.jpg)
