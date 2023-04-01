@@ -29,6 +29,8 @@ A Power BI dashboard which allows me to filter data for each Product.
 Follow sales over time against budget.	
 A Power Bi dashboard with graphs and KPIs comparing against budget.
 
+## 🌟 **Steps**
+
 - ###### Step 1.
 
 Add the Dataset provided to SQL Server Studio Management.
