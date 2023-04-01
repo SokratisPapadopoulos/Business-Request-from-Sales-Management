@@ -29,7 +29,7 @@ A Power BI dashboard which allows me to filter data for each Product.
 Follow sales over time against budget.	
 A Power Bi dashboard with graphs and KPIs comparing against budget.
 
-## 🌟 **Steps**
+## ✏️ **Steps**
 
 - ###### Step 1.
 
