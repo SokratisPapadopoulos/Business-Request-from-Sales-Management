@@ -13,7 +13,7 @@ The business request for this data analyst project was an executive sales report
 
 ## 🌟 **User Stories**
 
-Based on the request that was made from the business company, the following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
+Based on the request that was made from the business company, the following user stories were defined to maintain the structure of the project and fulfill delivery.
 
 ▪ Sales Manager:	To get a dashboard overview of internet sales.
 Can follow better which customers and products sells the best.	
