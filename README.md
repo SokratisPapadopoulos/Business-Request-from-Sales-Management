@@ -59,6 +59,10 @@ Create the data model after cleansed and prepared tables were transformed with P
 
 - ###### Step 6.
 
+For Quality assurance I checked my results in the excel just to make sure that I don't have any discrepancies with the source streams.
+
+- ###### Step 7.
+
 The Dashboards
 
 Create sales management dashboard with one page which works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
