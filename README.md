@@ -62,3 +62,4 @@ Create the data model after cleansed and prepared tables were transformed with P
 The Dashboards
 
 Create sales management dashboard with one page which works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
+![Sales_Overview](https://user-images.githubusercontent.com/122797480/231509276-01b75ed9-f1cf-4970-a128-017a22ef9baa.jpg)
