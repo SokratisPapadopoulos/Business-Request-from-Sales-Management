@@ -1,6 +1,6 @@
 # Business-Request-from-Sales-Management
 
-- [View the complete data analysis process](https://blossom-kookaburra-40c.notion.site/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=03b0040c0e66449c874bc90f60fc666b&pm=c)
+- [View the complete data analysis process](https://www.notion.so/sokratispapadopoulos/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=03b0040c0e66449c874bc90f60fc666b&pm=c)
 
 ## 📝 Project Task
 
